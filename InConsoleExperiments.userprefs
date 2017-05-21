@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{41E2BD2A-0595-41F6-959B-64034529AC72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InConsoleExperiments.Common/MapExtensions.cs">
+    <Files>
+      <File FileName="InConsoleExperiments.Map/Program.cs" Line="73" Column="4" />
+      <File FileName="InConsoleExperiments.Common/MapExtensions.cs" Line="98" Column="13" />
+      <File FileName="InConsoleExperiments.Common/DummyModel.cs" Line="47" Column="1" />
+      <File FileName="InConsoleExperiments.Common/CreepyModel.cs" Line="38" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InConsoleExperiments.SimpleAsyncLambda PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.InConsoleExperiments.Map PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.InConsoleExperiments.LambdaRecursion PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

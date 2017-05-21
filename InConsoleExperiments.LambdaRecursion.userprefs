@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A3E9B6C9-715C-44F5-8C4A-369481917D6E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InConsoleExperiments/DummyModel.cs">
+    <Files>
+      <File FileName="InConsoleExperiments/Program.cs" Line="9" Column="3" />
+      <File FileName="InConsoleExperiments/DummyModel.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InConsoleExperiments.LambdaRecursion" expanded="True">
+            <Node name="InConsoleExperiments" expanded="True">
+              <Node name="DummyModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.InConsoleExperiments PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

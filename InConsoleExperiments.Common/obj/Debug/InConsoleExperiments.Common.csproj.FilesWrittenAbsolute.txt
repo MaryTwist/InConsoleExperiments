@@ -1,0 +1,10 @@
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments.Common/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments.Common/bin/Debug/InConsoleExperiments.Common.dll.mdb
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments.Common/bin/Debug/InConsoleExperiments.Common.dll
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments.Common/obj/Debug/InConsoleExperiments.Common.dll
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments.Common/obj/Debug/InConsoleExperiments.Common.dll.mdb
+/root/prj/csharp/InConsoleExperiments/InConsoleExperiments.Common/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/root/prj/csharp/InConsoleExperiments/InConsoleExperiments.Common/bin/Debug/InConsoleExperiments.Common.dll.mdb
+/root/prj/csharp/InConsoleExperiments/InConsoleExperiments.Common/bin/Debug/InConsoleExperiments.Common.dll
+/root/prj/csharp/InConsoleExperiments/InConsoleExperiments.Common/obj/Debug/InConsoleExperiments.Common.dll
+/root/prj/csharp/InConsoleExperiments/InConsoleExperiments.Common/obj/Debug/InConsoleExperiments.Common.dll.mdb

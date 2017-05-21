@@ -1,0 +1,5 @@
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments.SimpleAsyncLambda/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments.SimpleAsyncLambda/bin/Debug/InConsoleExperiments.SimpleAsyncLambda.exe.mdb
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments.SimpleAsyncLambda/bin/Debug/InConsoleExperiments.SimpleAsyncLambda.exe
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments.SimpleAsyncLambda/obj/x86/Debug/InConsoleExperiments.SimpleAsyncLambda.exe
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments.SimpleAsyncLambda/obj/x86/Debug/InConsoleExperiments.SimpleAsyncLambda.exe.mdb

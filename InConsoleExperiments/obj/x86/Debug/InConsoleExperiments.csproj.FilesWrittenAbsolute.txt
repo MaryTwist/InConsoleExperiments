@@ -1,0 +1,5 @@
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments/bin/Debug/InConsoleExperiments.exe.mdb
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments/bin/Debug/InConsoleExperiments.exe
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments/obj/x86/Debug/InConsoleExperiments.exe
+/root/prj/csharp/InConsoleExperiments.LambdaRecursion/InConsoleExperiments/obj/x86/Debug/InConsoleExperiments.exe.mdb

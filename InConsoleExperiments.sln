@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InConsoleExperiments.LambdaRecursion", "InConsoleExperiments\InConsoleExperiments.LambdaRecursion.csproj", "{A3E9B6C9-715C-44F5-8C4A-369481917D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InConsoleExperiments.SimpleAsyncLambda", "InConsoleExperiments.SimpleAsyncLambda\InConsoleExperiments.SimpleAsyncLambda.csproj", "{D7C2DC55-BF22-48E7-B497-E0493237F170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InConsoleExperiments.Map", "InConsoleExperiments.Map\InConsoleExperiments.Map.csproj", "{41E2BD2A-0595-41F6-959B-64034529AC72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InConsoleExperiments.Common", "InConsoleExperiments.Common\InConsoleExperiments.Common.csproj", "{5460C833-8EE2-464E-AE28-0946EE37E892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E9B6C9-715C-44F5-8C4A-369481917D6E}.Debug|x86.ActiveCfg = Debug|x86
+		{A3E9B6C9-715C-44F5-8C4A-369481917D6E}.Debug|x86.Build.0 = Debug|x86
+		{A3E9B6C9-715C-44F5-8C4A-369481917D6E}.Release|x86.ActiveCfg = Release|x86
+		{A3E9B6C9-715C-44F5-8C4A-369481917D6E}.Release|x86.Build.0 = Release|x86
+		{D7C2DC55-BF22-48E7-B497-E0493237F170}.Debug|x86.ActiveCfg = Debug|x86
+		{D7C2DC55-BF22-48E7-B497-E0493237F170}.Debug|x86.Build.0 = Debug|x86
+		{D7C2DC55-BF22-48E7-B497-E0493237F170}.Release|x86.ActiveCfg = Release|x86
+		{D7C2DC55-BF22-48E7-B497-E0493237F170}.Release|x86.Build.0 = Release|x86
+		{41E2BD2A-0595-41F6-959B-64034529AC72}.Debug|x86.ActiveCfg = Debug|x86
+		{41E2BD2A-0595-41F6-959B-64034529AC72}.Debug|x86.Build.0 = Debug|x86
+		{41E2BD2A-0595-41F6-959B-64034529AC72}.Release|x86.ActiveCfg = Release|x86
+		{41E2BD2A-0595-41F6-959B-64034529AC72}.Release|x86.Build.0 = Release|x86
+		{5460C833-8EE2-464E-AE28-0946EE37E892}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5460C833-8EE2-464E-AE28-0946EE37E892}.Debug|x86.Build.0 = Debug|Any CPU
+		{5460C833-8EE2-464E-AE28-0946EE37E892}.Release|x86.ActiveCfg = Release|Any CPU
+		{5460C833-8EE2-464E-AE28-0946EE37E892}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
